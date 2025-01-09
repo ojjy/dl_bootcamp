@@ -1,0 +1,5 @@
+4/results/*
+*results*
+.ipynb_checkpoints/*
+prestudy/data/*
+.DS_Store
